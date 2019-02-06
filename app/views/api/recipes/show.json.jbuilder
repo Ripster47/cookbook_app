@@ -3,4 +3,3 @@ if current_user
 end
 
 json.partial! @recipe, partial: "recipe", as: :recipe
-
